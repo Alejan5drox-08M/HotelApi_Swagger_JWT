@@ -18,7 +18,7 @@ public class SwaggerConfig {
                         .contact(new Contact()
                                 .name("Alejandro")
                                 .email("alejandro.gremig@educa.jcyl.es")
-                                .url("https://juan.com"))
+                                .url("https://github.com/Alejan5drox-08M/HotelApi_Swagger_JWT.git"))
                         .version("1.0"));
     }
 
